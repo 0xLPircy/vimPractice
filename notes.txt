@@ -5,6 +5,7 @@ l - right
 H - to top of screen
 M - move to middle of screen
 L - move to bottom of screen
+w - next word start
 e - jump forwards to the end of a word
 b - jump backwards to the start of a word
 0 - jump to the start of the line
@@ -16,6 +17,19 @@ G - go to the last line of the document
 { - jump to previous paragraph (or function/block, when editing code)
 Ctrl + b - move back one full screen
 Ctrl + f - move forward one full screen
+% - matchung bracket
+* - next occ of word
+# - prev occ of word
+/xyz - to search word xyz
+n - next occ
+N - prev occ
+o - new line on next, insert mode
+O - new line on prev, insert mode
+x - char del
+dw - delete word
+3dw - delete 3 words
+v - visual mode
+
 
 ci" - change in "
 ca" - change around "
