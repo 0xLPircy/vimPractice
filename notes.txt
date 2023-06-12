@@ -29,7 +29,9 @@ x - char del
 dw - delete word
 3dw - delete 3 words
 v - visual mode
-
-
+p - paste after
+P - paste before
+cw - change word//nah
+C - change till end of line from cursor
 ci" - change in "
 ca" - change around "
