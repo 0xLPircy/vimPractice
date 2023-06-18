@@ -35,3 +35,4 @@ cw - change word//nah
 C - change till end of line from cursor
 ci" - change in "
 ca" - change around "
+# - line number
